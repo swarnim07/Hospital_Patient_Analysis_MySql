@@ -52,7 +52,7 @@ temp_status → Fever, Low Temp, Normal Temp
 
 bmi_status → Underweight, Normal, Overweight, Obese
 
-✅ 7. ❓ Business Questions Answered
+✅ 7.Questions Answered
 #	Question
 1	What percentage of patients have high blood pressure?
 
