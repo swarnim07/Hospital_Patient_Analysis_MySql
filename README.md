@@ -55,23 +55,40 @@ bmi_status → Underweight, Normal, Overweight, Obese
 ✅ 7. ❓ Business Questions Answered
 #	Question
 1	What percentage of patients have high blood pressure?
+
 2	How does obesity vary by gender?
+
 3	What's the average heart rate and temperature by gender?
+
 4	How many patients have both high BP and high HR?
+
 5	What is the average BMI by age group?
+
 6	How is blood type distributed among patients?
+
 7	Who are the oldest patients with high BP?
+
 8	How many have both fever and high HR?
+
 9	What's the average BMI per blood type?
+
 10	Which gender has more high BP patients?
 
 ✅ 8. 📌 Key Insights & Outcomes
 Insight #	Description
+
 🩺 1	~X% of patients have high blood pressure — risk of hypertension prevalent
+
 ⚖️ 2	Obesity is more common in males, especially age 40+
+
 🧬 3	Blood Type O is most common in the dataset
+
 💓 4	5% of patients have both fever and high heart rate — high-risk category
+
 📊 5	BMI increases consistently with age
+
 👵 6	Patients above 60 have significantly more high BP cases
+
 💉 7	Blood Type AB had the highest average BMI
+
 📈 8	Female patients had slightly higher average heart rates than males
